@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dhanashree1065
 - 👀 I’m interested in learning new technology
-- 🌱 I’m currently learning Java, HTml5, CSS3, Bootstrap5, JavaScript, jQuery
+- 🌱 I’m currently learning Java, HTml5, CSS3, Bootstrap5, JavaScript, jQuery, PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dhanashree1065@gmail.com
 
